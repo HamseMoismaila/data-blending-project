@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,amount,name,region,quantity,order_date,return_status,city,weather,temperature_C
+1,1,101,200,Alice,Kuala Lumpur,2,2025-09-01,,Kuala Lumpur,Clouds,31.6
+4,1,104,250,Alice,Kuala Lumpur,1,2025-09-07,No,Kuala Lumpur,Clouds,31.6
+2,2,102,150,Bob,Jakarta,1,2025-09-02,Yes,Jakarta,Clouds,34.0
+3,3,103,300,Charlie,Singapore,4,2025-09-07,,Singapore,Clouds,29.9

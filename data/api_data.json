@@ -1,0 +1,27 @@
+[
+    {
+        "city": "Kuala Lumpur",
+        "weather": "Clouds",
+        "temperature_C": 28.4
+    },
+    {
+        "city": "Singapore",
+        "weather": "Clouds",
+        "temperature_C": 28.5
+    },
+    {
+        "city": "Jakarta",
+        "weather": "Clouds",
+        "temperature_C": 28.9
+    },
+    {
+        "city": "Bangkok",
+        "weather": "Clouds",
+        "temperature_C": 29.0
+    },
+    {
+        "city": "Manila",
+        "weather": "Clouds",
+        "temperature_C": 26.7
+    }
+]

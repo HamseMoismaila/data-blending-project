@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,amount,name,region,quantity,order_date,return_status,city,weather,temperature_C,city_region_same
+1,1,101,200,Alice,Singapore,2,2025-09-01,,Singapore,Clouds,28.9,True
+2,2,102,150,Bob,New York,1,2025-09-02,Yes,,,,False
+3,3,103,300,Charlie,Kuala lumpur,4,2025-09-07,,,,,False
+4,1,104,250,Alice,Singapore,1,2025-09-07,No,Singapore,Clouds,28.9,True
